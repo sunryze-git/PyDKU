@@ -10,5 +10,5 @@ I picked up Python back last fall when development on AutoIDKU was permanently c
 ## What is the theme of PyDKU?
 PyDKU will be based on a Synthwave 80s style of theming. Internal backgrounds will be under this theme and any music during the installation will also continue with this theming.
 
-## When can I epxect the first release?
+## When can I expect the first release?
 The first release will be very experimental and not feature complete. It will only be a basic recreation; there is a priority list I have to follow. The most important features will be added first.
